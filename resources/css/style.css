@@ -1,0 +1,19 @@
+h6{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    border: 2px solid red;
+}
+body{
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+}
+h2{
+    color: aquamarine;
+    font-size: 16px;
+    border: 2px solid red;
+    top: -20px;
+}
